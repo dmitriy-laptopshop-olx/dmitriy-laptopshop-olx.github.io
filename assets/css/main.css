@@ -2053,6 +2053,11 @@ button:active,
     color: #fff;
 }
 
+#header #contacts .store {
+	line-height: 110%;
+	padding: 0.5em 1.5em;
+}
+
 #contacts .store .value {
     font-size: 80%;
 }
